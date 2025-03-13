@@ -1,0 +1,55 @@
+{
+    "sample_1": {
+      "mean_amplitude": 0.28,
+      "std_amplitude": 0.35,
+      "max_amplitude": 1.0,
+      "min_amplitude": 0.0008,
+      "peak_frequency": 8500.0,
+      "energy": 48.5,
+      "zero_crossings": 195,
+      "main_freq_energy": 6.2,
+      "harmonic_ratio": 0.0,
+      "envelope_mean": 0.28,
+      "envelope_std": 0.21,
+      "kurtosis": 2.8,
+      "skewness": -0.05,
+      "material": "Aluminum",
+      "thickness_mm": 15.3
+    },
+    
+    "sample_2": {
+      "mean_amplitude": 0.22,
+      "std_amplitude": 0.29,
+      "max_amplitude": 1.0,
+      "min_amplitude": 0.0015,
+      "peak_frequency": 14200.0,
+      "energy": 32.6,
+      "zero_crossings": 208,
+      "main_freq_energy": 3.8,
+      "harmonic_ratio": 0.0,
+      "envelope_mean": 0.22,
+      "envelope_std": 0.17,
+      "kurtosis": 3.4,
+      "skewness": 0.12,
+      "material": "Titanium",
+      "thickness_mm": 25.4
+    },
+    
+    "sample_3": {
+      "mean_amplitude": 0.26,
+      "std_amplitude": 0.33,
+      "max_amplitude": 1.0,
+      "min_amplitude": 0.0005,
+      "peak_frequency": 12300.0,
+      "energy": 43.2,
+      "zero_crossings": 202,
+      "main_freq_energy": 7.5,
+      "harmonic_ratio": 0.0,
+      "envelope_mean": 0.26,
+      "envelope_std": 0.20,
+      "kurtosis": 3.1,
+      "skewness": -0.08,
+      "material": "Copper",
+      "thickness_mm": 18.7
+    }
+  }
